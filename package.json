@@ -1,6 +1,6 @@
 {
   "name": "ai-log",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Tap into an async iterable pipeline and log all chunks passing through",
   "repository": "parro-it/ai-log",
   "author": "Andrea Parodi <andrea@parro.it>",
