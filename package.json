@@ -41,6 +41,8 @@
   },
   "devDependencies": {
     "@std/esm": "^0.17.3",
+    "compose-function": "^3.0.3",
+    "concat-stream": "^1.6.0",
     "documentation": "^5.3.3",
     "linterjs": "^1.11.0",
     "tap-colorize": "^1.2.0",
