@@ -41,6 +41,7 @@
   },
   "devDependencies": {
     "@std/esm": "^0.17.3",
+    "ai-map": "^1.2.0",
     "compose-function": "^3.0.3",
     "concat-stream": "^1.6.0",
     "documentation": "^5.3.3",
@@ -49,6 +50,6 @@
     "tape-async": "^2.3.0"
   },
   "dependencies": {
-    "ai-map": "^1.2.0"
+    "ai-tap": "^0.1.0"
   }
 }

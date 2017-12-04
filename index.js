@@ -1,6 +1,3 @@
-import map from "ai-map";
+import tap from "ai-tap";
 export default (tag, stream = process.stderr) =>
-  map.with(item => {
-    stream.write(`[${tag}] ${String(item)}\n`);
-    return item;
-  });
+  tap(item => stream.write(`[${tag}] ${String(item)}\n`));
